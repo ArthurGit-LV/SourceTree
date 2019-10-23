@@ -1,6 +1,9 @@
-<<<<<<< HEAD
-My first content -Master
+
+New line various
  
-=======
-Cricket
->>>>>>> cricket-characters
+cricket-characters
+
+My first content
+
+
+new-branch-test
